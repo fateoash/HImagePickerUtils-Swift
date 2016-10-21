@@ -7,6 +7,11 @@
 - 支持照片选取和拍照
 - 支持Closure回调
 
+---
+
+- `[Swift3 版本]`
+- `git clone https://github.com/iFallen/HImagePickerUtils-Swift.git -b swift3`
+
 ### 使用方法  
 ---
 - 定义为类的成员变量
