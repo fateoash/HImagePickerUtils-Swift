@@ -381,6 +381,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.skkj.HImagePickerUtils-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -394,6 +395,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.skkj.HImagePickerUtils-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -464,6 +466,7 @@
 				C0B828EF1BE3193B00806161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0B828F01BE3193B00806161 /* Build configuration list for PBXNativeTarget "HImagePickerUtils-SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -472,6 +475,7 @@
 				C0B828F21BE3193B00806161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0B828F31BE3193B00806161 /* Build configuration list for PBXNativeTarget "HImagePickerUtils-SwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +484,7 @@
 				C0B828F51BE3193B00806161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
