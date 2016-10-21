@@ -9,7 +9,7 @@
 
 ---
 
-- `[Swift3 版本]`
+- `[Swift3 请选择 swift3 分支]`
 - `git clone https://github.com/iFallen/HImagePickerUtils-Swift.git -b swift3`
 
 ### 使用方法  
